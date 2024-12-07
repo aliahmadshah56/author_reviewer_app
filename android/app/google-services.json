@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "155872351393",
+    "project_id": "database-fd4bc",
+    "storage_bucket": "database-fd4bc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155872351393:android:afea00608664e2108a4ce0",
+        "android_client_info": {
+          "package_name": "com.example.author_reviewer_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH9_s1F3bE-e0aDCWEt4WzehflbkZdMIo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
